@@ -6,6 +6,6 @@ width="68" height="68">
 <text x="24" y="46" fill="param(text) black" style="font-size:32px;"
   content-value="param(number) 1">1</text>
 
-<script type="text/ecmascript" xlink:href="param.js" /> 
+<script type="text/ecmascript" xlink:href="https://appstormco.github.io/param.js" /> 
 
 </svg>
